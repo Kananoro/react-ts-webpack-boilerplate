@@ -2,8 +2,6 @@
 
 Minimal project with React TypeScript and SCSS
 
-Thias project
-
 ## Project stack
 
 - Webpack 5
