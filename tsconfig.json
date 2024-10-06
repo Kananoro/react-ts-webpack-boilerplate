@@ -9,6 +9,9 @@
     "moduleResolution": "Node",
     "esModuleInterop": true,
     "baseUrl": ".",
+    "paths": {
+      "*": ["./src/*"]
+    },
     "allowSyntheticDefaultImports": true
   },
   "ts-node": {
